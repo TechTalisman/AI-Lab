@@ -7,6 +7,7 @@ import sympy as sp
 # Symbol for calculus
 x = sp.symbols('x')
 
+
 # FUNCTIONS
 def addition():
     a=float(input("Enter first number: "))
